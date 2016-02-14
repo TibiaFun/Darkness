@@ -1,7 +1,8 @@
 #Server Development by Raven
 
 Version:
--Darkness 0.6 (not yet)
+-
+Darkness 0.6 (not yet)
 
 TibiaFun.zapto.org
 
