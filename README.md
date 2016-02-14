@@ -11,5 +11,6 @@ TibiaFun.zapto.org
 Donate
 -
 You Can donate in the game: http://tibiafun.zapto.org/index.php?subtopic=latestnews
--
+
 copyright reserved.
+-
