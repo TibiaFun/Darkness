@@ -1,4 +1,4 @@
--Darkness 0.6 (78%)
+-Darkness 0.6 (85%)
 -Darkness 0.7 (23%)
 -Darkness 0.8 (16%)
 -Darkness 0.9 (33%)
