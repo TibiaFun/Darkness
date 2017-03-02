@@ -6,7 +6,7 @@ Darkness 0.6 (not yet)
 
 IP:
 -
-TibiaFun.zapto.org
+darktibiafun.eu
 
 Donate
 -
