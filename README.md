@@ -10,7 +10,7 @@ TibiaFun.zapto.org
 
 Donate
 -
-You Can donate in the game: http://tibiafun.zapto.org/index.php?subtopic=latestnews
+You Can donate in the game: http://darktibiafun.eu/index.php?subtopic=latestnews
 
 Compiling
 -
