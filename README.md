@@ -15,6 +15,7 @@ You Can donate in the game: http://darktibiafun.eu/index.php?subtopic=latestnews
 Compiling
 -
 Debian 8 (Jessie) 32/64bit
+-
 Debian 7 ()       32/64bit
 
 copyright reserved.
