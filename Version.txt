@@ -4,5 +4,5 @@
 -Darkness 0.9 (33%)
 -Darkness 1.0 (30%)
 -Darkness 1.1 (10%)
--Darkness 1.2 (0%)
+-Darkness 1.2 (6%)
 -Darkness 1.3 (0%)
