@@ -2,7 +2,7 @@
 
 Version:
 -
-Darkness 0.6 (not yet)
+Darkness 0.6
 
 IP:
 -
